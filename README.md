@@ -380,7 +380,7 @@
             </p>
 
             <a href="mailto:global.fibr@gmail.com?subject=Solicitud%20de%20Contratación%20GLOBALFIBER" class="btn-principal">
-                ✈ Solicitar Contratación
+                 Solicitar Contratación
             </a>
         </div>
 
